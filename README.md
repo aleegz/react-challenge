@@ -1,4 +1,4 @@
-# Movilizame React Code Challenge
+# React Code Challenge
 
 ## Iniciar
 
@@ -6,7 +6,7 @@ Forkea este proyecto e instalá sus dependencias con `npm install`
 
 Realizá todos los cambios que consideres y cuando lo tengas listo realizá un Pull Request al proyecto original.
 
-Al finalizar escribinos un email con tus datos a contacto@movilizame.com.ar y te contactaremos a la brevedad con nuestros comentarios. 
+Al finalizar escribinos un email con tus datos a pbotta@antsolutions.com.ar  y te contactaremos a la brevedad con nuestros comentarios. 
 
 ## Consignas
 
